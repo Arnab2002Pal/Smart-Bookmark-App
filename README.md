@@ -1,3 +1,5 @@
+# List of problems and their solution:
+
 Phase 1: Authentication & Redirects
 1. Unsupported provider: missing OAuth secret (Google OAuth fails).
 - Created OAuth credentials in Google Cloud Console; added Client ID and Secret to Supabase Auth settings.
